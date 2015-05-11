@@ -41,6 +41,8 @@ public class ZoomActivity extends FragmentActivity {
             }
         });
 
+        //gfhfgh
+
         // Retrieve and cache the system's default "short" animation time.
         mShortAnimationDuration = getResources().getInteger(
                 android.R.integer.config_shortAnimTime);

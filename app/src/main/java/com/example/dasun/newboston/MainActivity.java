@@ -23,6 +23,8 @@ public class MainActivity extends ActionBarActivity {
         //conversion of Complex Unit DIP into actual pixel size, here we need 100px
         int px = (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP,100,res.getDisplayMetrics());
 
+        //xcxcx
+
         Button b = new Button(MainActivity.this);
 
         b.setWidth(px);
