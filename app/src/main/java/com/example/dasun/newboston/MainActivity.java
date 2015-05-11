@@ -27,6 +27,8 @@ public class MainActivity extends ActionBarActivity {
 
         b.setWidth(px);
         b.setHeight(px);
+
+        //test comment
     }
 
     private static int GetActualDIPValue(Activity activity, int PX){
